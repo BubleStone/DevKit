@@ -20,6 +20,6 @@ def play_pot_thong():
             print("Congratulations! You guessed the number in", attempts, "attempts.")
             break
 
-    print("Thanks for playing Pot Thong!")
+    print("Thanks for playing Pot Thong!") #Выводим результат на экран
 
 play_pot_thong()
